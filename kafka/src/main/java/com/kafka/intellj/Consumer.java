@@ -1,4 +1,4 @@
-package com.kafka.testing;
+package com.kafka.intellj;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
